@@ -1,0 +1,69 @@
+[33m10cff6a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/ModuloPaymentyEnumsModyOtros[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{0}: reset: moving to HEAD~1
+[33mc4966bf[m[33m ([m[1;31morigin/NuevosCambiosOrdersyDtosEnpointUpdateAdmin[m[33m)[m HEAD@{1}: checkout: moving from main to main
+[33mc4966bf[m[33m ([m[1;31morigin/NuevosCambiosOrdersyDtosEnpointUpdateAdmin[m[33m)[m HEAD@{2}: reset: moving to HEAD~1
+[33mcac9b90[m HEAD@{3}: commit: Se genera otro Endpoint, createOrder para el Administrador
+[33mc4966bf[m[33m ([m[1;31morigin/NuevosCambiosOrdersyDtosEnpointUpdateAdmin[m[33m)[m HEAD@{4}: checkout: moving from main to main
+[33mc4966bf[m[33m ([m[1;31morigin/NuevosCambiosOrdersyDtosEnpointUpdateAdmin[m[33m)[m HEAD@{5}: checkout: moving from NuevosCambiosOrdersyDtosEnpointUpdateAdmin to main
+[33mc4966bf[m[33m ([m[1;31morigin/NuevosCambiosOrdersyDtosEnpointUpdateAdmin[m[33m)[m HEAD@{6}: checkout: moving from main to NuevosCambiosOrdersyDtosEnpointUpdateAdmin
+[33mc4966bf[m[33m ([m[1;31morigin/NuevosCambiosOrdersyDtosEnpointUpdateAdmin[m[33m)[m HEAD@{7}: commit: Se implementa nuevo Endpoint updateOrder, con privilegios elevados, para uso exclusivo del Administrador.
+[33m10cff6a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/ModuloPaymentyEnumsModyOtros[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{8}: checkout: moving from main to main
+[33m10cff6a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/ModuloPaymentyEnumsModyOtros[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{9}: commit: Actualización de archivos antes del push
+[33m95e9a23[m HEAD@{10}: checkout: moving from main to main
+[33m95e9a23[m HEAD@{11}: checkout: moving from main to main
+[33m95e9a23[m HEAD@{12}: commit: Resolviendo Errores en Orders Module y Otros (Main GitHub)
+[33me254b6c[m[33m ([m[1;31morigin/PaymentModulo[m[33m, [m[1;32mPaymentModulo[m[33m)[m HEAD@{13}: reset: moving to HEAD~1
+[33m2514457[m HEAD@{14}: commit: Descripción de los cambios que hiciste
+[33me254b6c[m[33m ([m[1;31morigin/PaymentModulo[m[33m, [m[1;32mPaymentModulo[m[33m)[m HEAD@{15}: checkout: moving from main to main
+[33me254b6c[m[33m ([m[1;31morigin/PaymentModulo[m[33m, [m[1;32mPaymentModulo[m[33m)[m HEAD@{16}: reset: moving to HEAD~1
+[33ma1f1470[m HEAD@{17}: reset: moving to HEAD~1
+[33m47cf1a2[m HEAD@{18}: checkout: moving from main to main
+[33m47cf1a2[m HEAD@{19}: reset: moving to HEAD~1
+[33mc361894[m HEAD@{20}: commit: Descripción de los cambios que hiciste
+[33m47cf1a2[m HEAD@{21}: reset: moving to HEAD~1
+[33m47d375c[m HEAD@{22}: commit: Resueltos errores en Orders Service.
+[33m47cf1a2[m HEAD@{23}: reset: moving to HEAD~1
+[33m30c574c[m HEAD@{24}: commit: Resuelto errores en Orders Service.
+[33m47cf1a2[m HEAD@{25}: reset: moving to HEAD~1
+[33m097e43b[m HEAD@{26}: commit: Tu mensaje de commit aquí
+[33m47cf1a2[m HEAD@{27}: checkout: moving from main to main
+[33m47cf1a2[m HEAD@{28}: commit (merge): Resolviendo conflictos en app.module.ts y orders.module.ts
+[33ma1f1470[m HEAD@{29}: commit: Guardando cambios antes del pull
+[33me254b6c[m[33m ([m[1;31morigin/PaymentModulo[m[33m, [m[1;32mPaymentModulo[m[33m)[m HEAD@{30}: checkout: moving from PaymentModulo to main
+[33me254b6c[m[33m ([m[1;31morigin/PaymentModulo[m[33m, [m[1;32mPaymentModulo[m[33m)[m HEAD@{31}: checkout: moving from main to PaymentModulo
+[33me254b6c[m[33m ([m[1;31morigin/PaymentModulo[m[33m, [m[1;32mPaymentModulo[m[33m)[m HEAD@{32}: commit: Implementación del módulo de pagos
+[33m6a73b9c[m HEAD@{33}: checkout: moving from main to main
+[33m6a73b9c[m HEAD@{34}: reset: moving to HEAD~1
+[33m2b413a8[m HEAD@{35}: commit: Últimos cambios antes de crear PaymentModulo
+[33m6a73b9c[m HEAD@{36}: checkout: moving from main to main
+[33m6a73b9c[m HEAD@{37}: commit: Corrigiendo cambios en entidad y módulo
+[33m5ead1ae[m[33m ([m[1;31morigin/OrderHistoriesEnumsyDtos[m[33m)[m HEAD@{38}: commit: Mis cambios en main local
+[33m9ef66e8[m[33m ([m[1;31morigin/NuevosCambiosOrdersyDtos#2[m[33m, [m[1;32mOrderHistoriesEnumsyDtos[m[33m)[m HEAD@{39}: checkout: moving from main to main
+[33m9ef66e8[m[33m ([m[1;31morigin/NuevosCambiosOrdersyDtos#2[m[33m, [m[1;32mOrderHistoriesEnumsyDtos[m[33m)[m HEAD@{40}: checkout: moving from main to main
+[33m9ef66e8[m[33m ([m[1;31morigin/NuevosCambiosOrdersyDtos#2[m[33m, [m[1;32mOrderHistoriesEnumsyDtos[m[33m)[m HEAD@{41}: checkout: moving from main to main
+[33m9ef66e8[m[33m ([m[1;31morigin/NuevosCambiosOrdersyDtos#2[m[33m, [m[1;32mOrderHistoriesEnumsyDtos[m[33m)[m HEAD@{42}: checkout: moving from main to main
+[33m9ef66e8[m[33m ([m[1;31morigin/NuevosCambiosOrdersyDtos#2[m[33m, [m[1;32mOrderHistoriesEnumsyDtos[m[33m)[m HEAD@{43}: checkout: moving from OrderHistoriesEnumsyDtos to main
+[33m9ef66e8[m[33m ([m[1;31morigin/NuevosCambiosOrdersyDtos#2[m[33m, [m[1;32mOrderHistoriesEnumsyDtos[m[33m)[m HEAD@{44}: reset: moving to HEAD~1
+[33m1e7e9ae[m HEAD@{45}: commit: Añadiendo cambios en OrderHistoriesEnumsyDtos
+[33m9ef66e8[m[33m ([m[1;31morigin/NuevosCambiosOrdersyDtos#2[m[33m, [m[1;32mOrderHistoriesEnumsyDtos[m[33m)[m HEAD@{46}: checkout: moving from main to OrderHistoriesEnumsyDtos
+[33m9ef66e8[m[33m ([m[1;31morigin/NuevosCambiosOrdersyDtos#2[m[33m, [m[1;32mOrderHistoriesEnumsyDtos[m[33m)[m HEAD@{47}: checkout: moving from main to main
+[33m9ef66e8[m[33m ([m[1;31morigin/NuevosCambiosOrdersyDtos#2[m[33m, [m[1;32mOrderHistoriesEnumsyDtos[m[33m)[m HEAD@{48}: checkout: moving from NuevosCambiosOrdersyDtos#2 to main
+[33m2557643[m[33m ([m[1;32mNuevosCambiosOrdersyDtos#2[m[33m)[m HEAD@{49}: reset: moving to HEAD~1
+[33mb8874cc[m HEAD@{50}: checkout: moving from main to NuevosCambiosOrdersyDtos#2
+[33m9ef66e8[m[33m ([m[1;31morigin/NuevosCambiosOrdersyDtos#2[m[33m, [m[1;32mOrderHistoriesEnumsyDtos[m[33m)[m HEAD@{51}: checkout: moving from main to main
+[33m9ef66e8[m[33m ([m[1;31morigin/NuevosCambiosOrdersyDtos#2[m[33m, [m[1;32mOrderHistoriesEnumsyDtos[m[33m)[m HEAD@{52}: checkout: moving from NuevosCambiosOrdersyDtos#2 to main
+[33mb8874cc[m HEAD@{53}: checkout: moving from NuevosCambiosOrdersyDtos#2 to NuevosCambiosOrdersyDtos#2
+[33mb8874cc[m HEAD@{54}: commit: Últimos cambios en main antes de subir a NuevosCambiosOrdersyDtos#2
+[33m2557643[m[33m ([m[1;32mNuevosCambiosOrdersyDtos#2[m[33m)[m HEAD@{55}: checkout: moving from NuevosCambiosOrdersyDtos#2 to NuevosCambiosOrdersyDtos#2
+[33m2557643[m[33m ([m[1;32mNuevosCambiosOrdersyDtos#2[m[33m)[m HEAD@{56}: reset: moving to HEAD~1
+[33m3131703[m HEAD@{57}: checkout: moving from main to NuevosCambiosOrdersyDtos#2
+[33m9ef66e8[m[33m ([m[1;31morigin/NuevosCambiosOrdersyDtos#2[m[33m, [m[1;32mOrderHistoriesEnumsyDtos[m[33m)[m HEAD@{58}: checkout: moving from NuevosCambiosOrdersyDtos#2 to main
+[33m3131703[m HEAD@{59}: checkout: moving from main to NuevosCambiosOrdersyDtos#2
+[33m9ef66e8[m[33m ([m[1;31morigin/NuevosCambiosOrdersyDtos#2[m[33m, [m[1;32mOrderHistoriesEnumsyDtos[m[33m)[m HEAD@{60}: checkout: moving from NuevosCambiosOrdersyDtos#2 to main
+[33m3131703[m HEAD@{61}: checkout: moving from NuevosCambiosOrdersyDtos#2 to NuevosCambiosOrdersyDtos#2
+[33m3131703[m HEAD@{62}: checkout: moving from main to NuevosCambiosOrdersyDtos#2
+[33m9ef66e8[m[33m ([m[1;31morigin/NuevosCambiosOrdersyDtos#2[m[33m, [m[1;32mOrderHistoriesEnumsyDtos[m[33m)[m HEAD@{63}: commit: Guardando cambios antes de cambiar de rama
+[33m111a5d0[m HEAD@{64}: pull origin main: Fast-forward
+[33m5872cc5[m HEAD@{65}: checkout: moving from NuevosCambiosOrdersyDtos#2 to main
+[33m3131703[m HEAD@{66}: commit: Guardando cambios antes de hacer pull
+[33m2557643[m[33m ([m[1;32mNuevosCambiosOrdersyDtos#2[m[33m)[m HEAD@{67}: commit: Refactor: Actualización de Orders y DTOs
+[33m5872cc5[m HEAD@{
